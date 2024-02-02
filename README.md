@@ -36,3 +36,8 @@ c) Train and predict the model.
 d) Calculate the mean_squared error
 
 e) Visualize both train and test data using scatter plot
+
+STUDENT DETAILS:
+STUDENT NAME:AISHWARYA PASUMARTHY
+STUDENT ID:700759282
+CRN:22280
